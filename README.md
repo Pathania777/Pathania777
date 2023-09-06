@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pathania777
 - 👀 I’m interested in  front end development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Html, Css, Javascript, bootstrap, Jquery and React JS.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me  : sahilpathania75@gmail.com
 
